@@ -99,8 +99,7 @@ export default defineConfig({
 }
 ```
 
-* `baseUrl` 설정에 따라서 `paths`의 속성도 수정해야 한다.
-    
+`baseUrl` 설정에 따라서 `paths`의 속성도 수정해야 한다.
 
 ```json
 "baseUrl": "src",
@@ -121,11 +120,9 @@ import reactLogo from "./assets/react.svg"
 import reactLogo from "@/assets/react.svg";
 ```
 
-ㅤ
-
 그런데 이렇게 설정하면 다음과 같은 오류가 발생한다.
 
-> **'path' 모듈 또는 해당 형식 선언을 찾을 수 없습니다**
+> **'path' 모듈 또는 해당 형식 선언을 찾을 수 없습니다.**
 
 `TypeScript`가 `@types/node`를 찾지 못해서 발생하는 오류라고 한다. 이런 경우에는 `@types/node` 패키지를 추가하면 해결된다.
 
