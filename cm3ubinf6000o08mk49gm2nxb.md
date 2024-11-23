@@ -7,7 +7,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732375222985/54f4252
 
 ---
 
-> Next.js 공식 문서를 보면 \*\*리액트 프레임워크(React Framework)\*\*인 것을 알 수 있다. Next.js를 배우기 전에 헷갈리거나 몰랐던 리액트 기본 지식을 간단히 정리해보려고 한다!
+> Next.js 공식 문서를 보면 **리액트 프레임워크(React Framework)**인 것을 알 수 있다. 그래서 Next.js를 배우기 전에 헷갈리거나 몰랐던 리액트 기본 지식을 간단히 정리해보려고 한다!
 
 ㅤ
 
