@@ -21,7 +21,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732372714528/013c03e
 
 1. **빠른 서버 구동**: Esbuild로 의존성을 사전 번들링해 기존 번들러보다 10~100배 빠릅니다.
     
-2. **효율적인 코드 제공**: 브라우저의 **ESM(ES Modules)**을 활용해 필요한 코드만 동적으로 처리합니다.
+2. **효율적인 코드 제공**: 브라우저의 \*\*ESM(ES Modules)\*\*을 활용해 필요한 코드만 동적으로 처리합니다.
     
 3. **빠른 갱신 속도**: 수정된 파일만 교체해 HMR 및 로딩 성능이 뛰어납니다.
     
@@ -29,6 +29,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732372714528/013c03e
     
 5. **최적화된 빌드**: Rollup으로 트리 셰이킹, 청크 분할 등 최적화를 제공합니다.
     
+
+ㅤ
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
