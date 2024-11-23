@@ -120,8 +120,6 @@ import reactLogo from "./assets/react.svg"
 import reactLogo from "@/assets/react.svg";
 ```
 
-ㅤ
-
 그런데 이렇게 설정하면 다음과 같은 오류가 발생한다.
 
 > **'path' 모듈 또는 해당 형식 선언을 찾을 수 없습니다.**
