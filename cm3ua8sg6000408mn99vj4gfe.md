@@ -30,8 +30,6 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732372714528/013c03e
 5. **최적화된 빌드**: Rollup으로 트리 셰이킹, 청크 분할 등 최적화를 제공합니다.
     
 
-ㅤ
-
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
 <div data-node-type="callout-text"><strong>즉, Vite는 번들러 중심의 기존 개발 도구가 겪던 성능 문제를 해결하며, 빠르고 개발 환경을 제공하는 빌드 도구로, Vite를 사용하면 프로젝트에서 빠른 개발과 빌드 속도를 경험할 수 있다.</strong></div>
