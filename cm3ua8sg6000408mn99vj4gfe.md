@@ -9,7 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732372714528/013c03e
 
 # 들어가며
 
-유데미 강의를 들으면서 했던 프로젝트를 하면서 `Vite`의 여러가지 장점이 있다는 걸 느꼈고, 그래서 이번 프로젝트에서는 가볍고 빠른 개발 환경을 구축하기 위해서 `Vite + React + TypeScript`을 사용해보려고 한다.
+유데미 강의를 들으면서 했던 프로젝트를 통해서 `Vite`의 여러가지 장점이 있다는 걸 느꼈고, 그래서 이번 프로젝트에서는 가볍고 빠른 개발 환경을 구축하기 위해서 `Vite + React + TypeScript`을 사용해보려고 한다.
 
 ㅤ
 
