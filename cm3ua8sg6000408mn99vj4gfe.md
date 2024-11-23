@@ -13,7 +13,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732372714528/013c03e
 
 > [Vite를 사용해야 하는 이유](https://ko.vitejs.dev/guide/why.html)
 
-  
+ㅤ
 
 # 시작하기
 
@@ -31,7 +31,7 @@ $ npm create vite@latest [프로젝트 이름] --template react-ts
 $ npm run dev
 ```
 
-  
+ㅤ
 
 # 절대 경로 설정하기
 
@@ -56,8 +56,6 @@ export default defineConfig({
   },
 });
 ```
-
-  
 
 #### tsconfig.json
 
@@ -101,23 +99,25 @@ import reactLogo from "./assets/react.svg"
 import reactLogo from "@/assets/react.svg";
 ```
 
-  
+ㅤ
+
+그런데 이렇게 설정하면 다음과 같은 오류가 발생한다.
 
 > **'path' 모듈 또는 해당 형식 선언을 찾을 수 없습니다**
 
-그런데 이렇게 설정하면 이런 오류가 발생하는데 찾아보니까 `TypeScript`가 `@types/node`를 찾지 못해서 발생하는 오류라고 한다.
+`TypeScript`가 `@types/node`를 찾지 못해서 발생하는 오류라고 한다. 이런 경우에는 `@types/node` 패키지를 추가하면 해결된다.
 
 ```powershell
 $ npm install -D @types/node
 ```
 
-`@types/node` 패키지를 추가하면 해결된다.
-
-  
+ㅤ
 
 # 참고
 
 * [\[Vite, TypeScript\] Vite + 타입스크립트 환경에서 절대 경로 설정하기!](https://shape-coding.tistory.com/entry/Vite-TypeScript-Vite-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%A0%88%EB%8C%80-%EA%B2%BD%EB%A1%9C-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
     
-
 * [Vite 시작하기](https://ko.vitejs.dev/guide/)
+    
+
+ㅤ
