@@ -1,9 +1,10 @@
 ---
-title: "【React】 TanStack Query 시작하기"
+title: "[React] TanStack Query 시작하기"
 datePublished: Mon Nov 11 2024 08:11:23 GMT+0000 (Coordinated Universal Time)
 cuid: cm3cqvc74000g08jt37ydcnqd
 slug: react-query-tanstack-query
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731312500756/0bdfa7be-094a-48e2-9751-173a3508a84d.webp
+tags: reactjs, react-query, tanstack-query
 
 ---
 
