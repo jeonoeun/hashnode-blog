@@ -1,9 +1,10 @@
 ---
-title: "【프로그래머스】 Lv.0 저주의 숫자 3"
+title: "[프로그래머스] Lv.0 저주의 숫자 3"
 datePublished: Wed Aug 28 2024 10:47:48 GMT+0000 (Coordinated Universal Time)
 cuid: cm0dqflp5000u08jv2lxs6u9s
 slug: lv0-3
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724841466974/21057b22-d393-4e83-b6f5-5a7bf7da0bee.png
+tags: 7zse66gc6re4656y66i47iqk
 
 ---
 
