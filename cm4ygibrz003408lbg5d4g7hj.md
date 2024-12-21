@@ -16,7 +16,7 @@ tags: firebase, til
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">🚨</div>
-<div data-node-type="callout-text"><strong>FirebaseError: Firebase: Please verify the new email before changing email. (auth/operation-not-allowed).</strong></div>
+<div data-node-type="callout-text">FirebaseError: Firebase: Please verify the new email before changing email. (auth/operation-not-allowed).</div>
 </div>
 
 ### **해결**
