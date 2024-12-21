@@ -1,5 +1,5 @@
 ---
-title: "🌎 주소창에 "www.naver.com"를 입력하면 어떤 일이 생길까?"
+title: "[Web] 🌎 주소창에 "www.naver.com"를 입력하면 어떤 일이 생길까?"
 datePublished: Sat Dec 21 2024 16:51:56 GMT+0000 (Coordinated Universal Time)
 cuid: cm4yf2u5k000e09jralh17cdl
 slug: wwwnavercom
