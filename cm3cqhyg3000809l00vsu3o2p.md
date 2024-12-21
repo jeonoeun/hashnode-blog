@@ -1,9 +1,10 @@
 ---
-title: "【프로그래머스】 Lv.0 qr code"
+title: "[프로그래머스] Lv.0 qr code"
 datePublished: Mon Nov 11 2024 08:00:59 GMT+0000 (Coordinated Universal Time)
 cuid: cm3cqhyg3000809l00vsu3o2p
 slug: lv0-qr-code
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731312239076/223ce918-4ee2-4aee-8d4f-00a1a8074799.png
+tags: 7zse66gc6re4656y66i47iqk
 
 ---
 
