@@ -154,7 +154,7 @@ Tree 형태로 관계를 주는 것을 **M**odel이라고 한다.
 
 ### **CSSOM Tree**
 
-```tsx
+```xml
 <link rel="stylesheet" type="text/css" href="/examples/media/expand_style.css">
 ```
 
@@ -173,7 +173,7 @@ Tree 형태로 관계를 주는 것을 **M**odel이라고 한다.
 
 ### **JavaScript 파싱**
 
-```tsx
+```xml
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -198,7 +198,7 @@ Tree 형태로 관계를 주는 것을 **M**odel이라고 한다.
 
 ### **자바스크립트 태그가 항상 바닥에 있는 이유?**
 
-```tsx
+```xml
 <script src="main.js" defer></script>
 <div id="test" class="test">hey</div>
 ```
@@ -209,12 +209,12 @@ Tree 형태로 관계를 주는 것을 **M**odel이라고 한다.
 
 ### **defer과 async**
 
-```tsx
+```xml
 <script src="main.js" defer></script>
 <div id="test" class="test">hey</div>
 ```
 
-근데 자바스크립트가 DOM 파일을 막는 건 말이 안되지 않나? 자바스크립트 읽는 동안 DOM 파싱 멈추는 거 싫다?
+근데 자바스크립트가 DOM 파일을 막는 건 말이 안되지 않니? 자바스크립트 읽는 동안 DOM 파싱 멈추는 거 싫다?
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
