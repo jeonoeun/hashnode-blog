@@ -1,5 +1,5 @@
 ---
-title: "TIL 241221 | Firebase Authentication 에러"
+title: "[TIL] 241221 | Firebase Authentication 에러"
 datePublished: Sat Dec 21 2024 17:31:58 GMT+0000 (Coordinated Universal Time)
 cuid: cm4ygibrz003408lbg5d4g7hj
 slug: til-241221-firebase-authentication
