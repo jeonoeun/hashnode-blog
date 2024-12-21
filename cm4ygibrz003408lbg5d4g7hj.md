@@ -21,7 +21,7 @@ tags: firebase, til
 
 ### **해결**
 
-* \*\*email enumeration protection(이메일 열거 보호)\*\*를 체크 해제 해주면 굉장히 쉽게 해결되는 문제였다.
+* **email enumeration protection(이메일 열거 보호)**를 체크 해제 해주면 굉장히 쉽게 해결되는 문제였다.
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734802195920/756cf237-043d-428c-a5d6-1db28993647a.png align="center")
