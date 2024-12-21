@@ -1,9 +1,10 @@
 ---
-title: "【Vite】 Vite + React + TS 기반 프로젝트 시작하기"
+title: "Vite + React + TS 기반 프로젝트 시작하기"
 datePublished: Sat Nov 23 2024 14:45:48 GMT+0000 (Coordinated Universal Time)
 cuid: cm3ua8sg6000408mn99vj4gfe
 slug: vite-react-ts
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732372714528/013c03ec-1648-4d2b-95d1-e46d8edc0e89.png
+tags: reactjs, typescript, vite
 
 ---
 
