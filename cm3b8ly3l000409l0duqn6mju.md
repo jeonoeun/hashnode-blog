@@ -1,9 +1,10 @@
 ---
-title: "【TypeScript】 유니온 타입으로 인덱스 오류 방지하기"
+title: "[Typescript] 유니온 타입으로 인덱스 오류 방지하기"
 datePublished: Sun Nov 10 2024 06:52:25 GMT+0000 (Coordinated Universal Time)
 cuid: cm3b8ly3l000409l0duqn6mju
 slug: typescript
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731307105689/523ede28-194f-4a44-93d4-2854604b9a94.png
+tags: typescript
 
 ---
 
