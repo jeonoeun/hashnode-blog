@@ -1,5 +1,5 @@
 ---
-title: "React 개념 정리"
+title: "[React] 개념 정리"
 datePublished: Sat Nov 23 2024 15:21:28 GMT+0000 (Coordinated Universal Time)
 cuid: cm3ubinf6000o08mk49gm2nxb
 slug: react
