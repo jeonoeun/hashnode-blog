@@ -43,7 +43,7 @@ tags: dom, 64sk7yq47jum7ygs, 67im65287jqw7kcaiougjounloungq
 
 ㅤ
 
-# 🌎 **주소창에 "**[**www.naver.com**](http://www.naver.com)**"를 입력하면?**
+# 🌎 **주소창에 "**[**www.naver.com**](http://www.naver.com)**"를 입력하면 어떤 일이 생길까?**
 
 ## 1\. IP 주소 찾기
 
