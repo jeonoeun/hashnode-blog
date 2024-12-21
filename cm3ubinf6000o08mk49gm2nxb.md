@@ -4,6 +4,7 @@ datePublished: Sat Nov 23 2024 15:21:28 GMT+0000 (Coordinated Universal Time)
 cuid: cm3ubinf6000o08mk49gm2nxb
 slug: react
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732375222985/54f42520-1d2c-4f82-a059-d3c0c9f7281e.png
+tags: reactjs
 
 ---
 
