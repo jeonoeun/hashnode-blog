@@ -1,9 +1,10 @@
 ---
-title: "【프로그래머스】 Lv.0 유한소수 판별하기"
+title: "[프로그래머스] Lv.0 유한소수 판별하기"
 datePublished: Wed Aug 21 2024 10:35:30 GMT+0000 (Coordinated Universal Time)
 cuid: cm03pwtgw001309mh1nh4fmp8
 slug: lv0-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724236399012/d1febd43-3392-4764-8296-83735c375883.png
+tags: 7zse66gc6re4656y66i47iqk
 
 ---
 
