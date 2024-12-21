@@ -1,9 +1,10 @@
 ---
-title: "【프로그래머스】 Lv.0 최빈값 구하기"
+title: "[프로그래머스] Lv.0 최빈값 구하기"
 datePublished: Thu Aug 15 2024 09:32:52 GMT+0000 (Coordinated Universal Time)
 cuid: clzv315zg000208laa0gs96pz
 slug: lv0
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723714196238/13760cfa-3447-43f4-9141-9f45399f574a.png
+tags: 7zse66gc6re4656y66i47iqk
 
 ---
 
