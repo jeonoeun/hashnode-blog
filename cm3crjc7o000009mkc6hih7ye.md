@@ -1,9 +1,10 @@
 ---
-title: "【프로그래머스】 Lv.1 크기가 작은 부분 문자열"
+title: "[프로그래머스] Lv.1 크기가 작은 부분 문자열"
 datePublished: Mon Nov 11 2024 08:30:03 GMT+0000 (Coordinated Universal Time)
 cuid: cm3crjc7o000009mkc6hih7ye
 slug: lv1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1731313612280/b865f950-4333-47d1-94ac-f3676cbd0300.png
+tags: 7zse66gc6re4656y66i47iqk
 
 ---
 
